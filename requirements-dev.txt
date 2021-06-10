@@ -1,0 +1,8 @@
+prefect
+hvac
+flake8
+setuptools
+setuptools-scm
+wheel
+python-semantic-release
+pytest
